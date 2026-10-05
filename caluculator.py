@@ -5,3 +5,5 @@ def calulate_add():
     num2=int(input())
     print(num1 + num2)
     print("program has ended.")
+   
+    Phase 2 of a function  

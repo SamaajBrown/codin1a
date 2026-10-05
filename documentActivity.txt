@@ -1,0 +1,7 @@
+1. Code documentation is a collection of documents and code comments explaining how code works and how to use it.
+
+2. Having good documentation on a large game development team saves time, aligns the vision, and simplifies colabertaion.
+
+3. The primary difference between internal and extornal is target audeince and core purpose.
+
+4. No, you do not strictly need to know how to code to read code documentation, but you do need a foundational understanding of programming concepts, logic, and technical structure.
